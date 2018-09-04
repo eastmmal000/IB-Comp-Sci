@@ -30,7 +30,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Class Notes Link
   [Class Notes Link](https://github.com/eastmmal000/IB-Comp-Sci/blob/master/Class%20Notes.md)
-
+### Cource description Link
+  [Cource description](https://github.com/eastmmal000/IB-Comp-Sci/blob/master/Cource%20description.md)
+### Syllabus Link
+   [Syllabus](https://github.com/eastmmal000/IB-Comp-Sci/blob/master/Syllabus.md)
 
 ### Jekyll Themes
 
