@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <script>
+
+    var languages = [
+        "Markup", "Markup Language is a computer language that uses different tags to define elements within a document and uses standard words instead of typical syntax seen in other codes making it a computer language that humans can read.",
+        "High Level", "High Level is a computer language that is written with strong abstraction from the computer detail themselves. It can use natural language elements, or automate areas of the computing system making the creation and development of a program easier and more understandible.",
+        "Low Level", "Low Level is a computer language that is very similar to the computer's instruction set architecture meaning that commands and things like functions in the code are very similar to the computer's processor instructions.",
+        "Compiled", "Compiled is a type of computer language that means that even though the code is written in another language it has to be compiled or turned into machine code to be able to run. An example of this is would be Java or C++",
+        "Interpreted", "Interpreted is a computer language that executes most of its instructions directly without the need to compile the code first. This is done by the interpreter running the program directly and translating each statement into subroutines.",
+        "Style Sheet", "Style Sheet is a way of organizing a computer language by expressing the presentation of structured documents creating a layout for the code and allows you to be more organized and fill certain things into certain areas."
+]
+
+      function changeLanguage(lang, words){
+        document.getElementById("h1").innerHTML = languages[lang];
+        document.getElementById("p1").innerHTML = languages[words];
+
+      }
+    </script>
+  </head>
+
+  <body>
+    <h1 id="h1">Different Types of Computer Languages</h1>
+    <p id="p1">Click a language below to learn about it!</p>
+
+      <span onclick="changeLanguage(0,1)">Markup</span> -||-
+      <span onclick="changeLanguage(2,3)">High Level</span> -||-
+      <span onclick="changeLanguage(4,5)">Low Level</span> -||-
+      <span onclick="changeLanguage(6,7)">Compiled</span> -||-
+      <span onclick="changeLanguage(8,9)">Interpreted</span> -||-
+      <span onclick="changeLanguage(10,11)">Style Sheet</span>
+
+  </body>
+
+</html>
