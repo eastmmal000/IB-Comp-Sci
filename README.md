@@ -37,7 +37,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Different Computer Languages.html
   [Different Computer Languages](https://eastmmal000.github.io/IB-Comp-Sci/Different Computer Languages.html)
 ### Mockup Prototype
-  [Mockup Prototype](https://github.com/eastmmal000/IB-Comp-Sci/blob/master/Prototype)
+  [Mockup Prototype](https://eastmmal000.github.io/IB-Comp-Sci/Prototype)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eastmmal000/IB-Comp-Sci/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
