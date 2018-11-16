@@ -34,7 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   [Cource description](https://github.com/eastmmal000/IB-Comp-Sci/blob/master/Cource%20description.md)
 ### Syllabus Link
   [Syllabus](https://github.com/eastmmal000/IB-Comp-Sci/blob/master/Syllabus.md)
-### Different Computer Languages.html
+### Different Computer Languages.html 
   [Different Computer Languages](https://eastmmal000.github.io/IB-Comp-Sci/Different Computer Languages.html)
 ### Mockup Prototype
   [Mockup Prototype](https://github.com/eastmmal000/IB-Comp-Sci/Prototype.html)
