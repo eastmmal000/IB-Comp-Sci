@@ -1,6 +1,6 @@
 ## Welcome to Malcolm's Page
 
-Her you will find examples and expanded demos from my work in my IB Computer Science Class. Programming here is done in Javascript sometimes using libraries or SVGs. 
+Here you will find examples and expanded demos from my work in my IB Computer Science Class. Programming here is done in Javascript sometimes using libraries or SVGs. 
 
 Updated: January 15th
 
