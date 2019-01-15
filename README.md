@@ -26,4 +26,4 @@ Updated: January 15th
   This is a program that allows the user to play with a number and see how numbers work in code.
 ### JS_Forms_&_Validation
   [JS_Forms_&_Validation](https://eastmmal000.github.io/IB-Comp-Sci/JS_Forms_&_Validation.html)
-  This is a program that demonstrates how forms and vaidation work by using a persons name. Its doesnt work at this moment.
+  This is a program that demonstrates how forms and vaidation work by using a persons name.
