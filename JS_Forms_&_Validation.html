@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <h1>Is your name longer than 4 letters?</h1>
+  </head>
+
+  <body>
+    <p>Enter Your Name Here to check!: </p>
+    <input type="text" name="name" id="name">
+    <br> <br>
+    <input type="submit" name="submit" value="Check Name" onclick="validation()">
+    <br> <br>
+  </form>
+  <div id="eresult" styles="color:red;"></div>
+  <script type="text/javascript">
+  function validation(){
+    var name = document.getElementById("name").value;
+    var greeting = "Hello, " + name + " In your life you will find a match Keep looking!"
+    if(name== '')
+    {
+        document.getElementById("eresult").innerHTML = "This field is Required";
+        return false;
+    }
+    else if(name.length<4)
+    {
+      document.getElementById("eresult").innerHTML = "Name must be at least 4 characters";
+      return false;
+    }
+    else {
+
+      document.getElementById("eresult").innerHTML = "Your Name is 4 letters or longer!";
+      return true;
+
+    }
+    }
+
+  </script>
+  </body>
+
+</html>
