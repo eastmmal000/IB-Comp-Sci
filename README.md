@@ -13,8 +13,8 @@ Updated: January 15th
 ### Syllabus Link
   [Syllabus](https://github.com/eastmmal000/IB-Comp-Sci/blob/master/Syllabus.md)
 ### Different Computer Languages 
-  [Different Computer Languages](https://eastmmal000.github.io/IB-Comp-Sci/Different Computer Languages.html)
+  [Different Computer Languages](https://eastmmal000.github.io/IB-Comp-Sci/Different_Computer_Languages.html)
 ### Mockup Prototype
   [Mockup Prototype](https://eastmmal000.github.io/IB-Comp-Sci/Prototype.html)
 ### Number Program
-  [Number Program](https://eastmmal000.github.io/IB-Comp-Sci/Number Program.html) 
+  [Number Program](https://eastmmal000.github.io/IB-Comp-Sci/Number_Program.html) 
