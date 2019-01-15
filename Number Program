@@ -1,0 +1,72 @@
+<html>
+  <head>
+    <script>
+    balance = 13
+      var a;
+      a = 13
+      var b;
+      b = 3
+      var c;
+      c = 2
+      var d;
+      d = 8
+      var e;
+      e = 5
+      var f;
+      f = 6
+      var g;
+      g = 10
+
+      document.write("Hello here is your number:");
+      function callFunction1(){
+        balance = balance+b;
+        document.getElementById('ON').innerHTML = "13";
+        document.getElementById('ON').innerHTML = balance;
+
+      }
+
+      function callFunction2(){
+        balance = balance*c;
+        document.getElementById('ON').innerHTML = "13";
+        document.getElementById('ON').innerHTML = balance;
+      }
+
+      function callFunction3(){
+        balance = balance/d;
+        document.getElementById('ON').innerHTML = "13";
+        document.getElementById('ON').innerHTML = balance;
+      }
+
+      function callFunction4(){
+        balance = balance+e;
+        document.getElementById('ON').innerHTML = "13";
+        document.getElementById('ON').innerHTML = balance;
+
+      }
+
+      function callFunction5(){
+        balance = balance*f;
+        document.getElementById('ON').innerHTML = "13";
+        document.getElementById('ON').innerHTML = balance;
+      }
+
+      function callFunction6(){
+        balance = balance/g;
+        document.getElementById('ON').innerHTML = "13";
+        document.getElementById('ON').innerHTML = balance;
+      }
+    </script>
+  </head>
+  <body>
+    <h1 id="ON">13</h1>
+
+      <button onclick="callFunction1()">Add 3</button>
+      <button onclick="callFunction2()">multiply by 2</button>
+      <button onclick="callFunction3()">Divide by 8</button>
+      <button onclick="callFunction4()">Add 5</button>
+      <button onclick="callFunction5()">multiply by 6</button>
+      <button onclick="callFunction6()">Divide by 10</button>
+
+  </body>
+
+</html>
