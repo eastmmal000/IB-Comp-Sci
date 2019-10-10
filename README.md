@@ -27,3 +27,6 @@ Updated: January 15th
 ### JS_Forms_&_Validation
   [JS_Forms&Validation](https://eastmmal000.github.io/IB-Comp-Sci/JS_Forms&Validation.html)
   This is a program that demonstrates how forms and vaidation work by using a persons name.
+### Adventure-Game
+  [Adventure-Game.html] (https://eastmmal000.github.io/IB-Comp-Sci/Adventure-Game.html)
+  This is a program that runs a minature adventure game using variables.
